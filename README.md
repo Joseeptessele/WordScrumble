@@ -14,4 +14,4 @@ Closures, method return values, booleans, NSRange
 
 # Screenshot
 
-![ezgif com-resize-4](https://user-images.githubusercontent.com/37282140/63737204-03ee3500-c85c-11e9-9d31-9762032995fc.gif)
+![ezgif com-resize-5](https://user-images.githubusercontent.com/37282140/63737363-942c7a00-c85c-11e9-8f45-6ebf3f5f27d4.gif)
