@@ -8,6 +8,7 @@ Closures, method return values, booleans, NSRange
 * How to use closures ✅
 * How to use NSRange ✅
 * How to use UITextChecker ✅
+* How to add a value to a table view without needing to reload all data on it ✅
 
 
 
